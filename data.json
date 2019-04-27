@@ -100,7 +100,7 @@
   "eka": "Ekajuk",
   "ell": "Modern Greek",
   "gre": "Modern Greek",
-  "eng": "English",
+  "eng": {"English", "greeting": "Christ is Risen!"}
   "est": "Estonian",
   "ewe": "Ewe",
   "ewo": "Ewondo",
