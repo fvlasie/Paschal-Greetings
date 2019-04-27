@@ -100,7 +100,7 @@
   "eka": "Ekajuk",
   "ell": "Modern Greek",
   "gre": "Modern Greek",
-  "eng": {"English", "greeting": "Christ is Risen!"}
+  "eng": {"name":"English", "greeting": "Christ is risen!", "response": "He is risen indeed!"},
   "est": "Estonian",
   "ewe": "Ewe",
   "ewo": "Ewondo",
@@ -185,7 +185,7 @@
   "kok": "Konkani",
   "kom": "Komi",
   "kon": "Kongo",
-  "kor": "Korean",
+  "kor": {"name":"Korean", "greeting": "그리스도께서 부활하셨습니다!", "response": "참으로 부활하셨습니다!"},
   "kos": "Kosraean",
   "kpe": "Kpelle",
   "krc": "Karachay-Balkar",
