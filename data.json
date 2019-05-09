@@ -383,7 +383,7 @@
   "zen": "Zenaga",
   "zgh": "Standard Moroccan Tamazight",
   "zha": "Zhuang",
-  "zul": "Zulu",
+  "zul": {"name":"Zulu", "greeting": "Kristo uvukile!", "response": "Qiniso uvukile!"},
   "zun": "Zuni",
   "zza": "Zaza"
 }
