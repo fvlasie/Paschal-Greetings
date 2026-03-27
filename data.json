@@ -316,13 +316,13 @@
   },
   "chi": {
     "name": "Chinese",
-    "greeting": "基督复活了!",
-    "response": "他确实复活了!"
+    "greeting": "基督復活了!",
+    "response": "他確實復活了!"
   },
   "zho": {
     "name": "Chinese",
-    "greeting": "基督复活了!",
-    "response": "他确实复活了!"
+    "greeting": "基督復活了!",
+    "response": "他確實復活了!"
   },
   "chk": {
     "name": "Chuukese",
@@ -353,6 +353,11 @@
     "name": "Cherokee",
     "greeting": "",
     "response": ""
+  },
+  "chu": {
+    "name": "Church Slavonic",
+    "greeting": "Христосъ воскресе!",
+    "response": "Воистину воскресе!"
   },
   "chv": {
     "name": "Chuvash",
