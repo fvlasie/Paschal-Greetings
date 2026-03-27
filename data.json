@@ -1,389 +1,1937 @@
 {
-  "aar": "Afar",
-  "abk": "Abkhazian",
-  "ace": "Achinese",
-  "ach": "Acoli",
-  "ada": "Adangme",
-  "ady": "Adyghe",
-  "afr": "Afrikaans",
-  "ain": "Ainu",
-  "aka": "Akan",
-  "alb": {"name":"Albanian", "greeting": "Krishti u ngjall!", "response": "Vërtet u ngjall!"},
-  "sqi": "Albanian",
-  "ale": {"name":"Aleut", "greeting": "Kristus aq ungwektaq!", "response": "Pichinuq ungwektaq!"}, 
-  "alt": "Southern Altai",
-  "amh": "Amharic",
-  "anp": "Angika",
-  "ara": {"name":"Arabic", "greeting": "!المسيح قام", "response": "!حقا قام" },
-  "arg": "Aragonese",
-  "arm": "Armenian",
-  "hye": "Armenian",
-  "arn": "Mapudungun",
-  "arp": "Arapaho",
-  "arw": "Arawak",
-  "asm": "Assamese",
-  "ast": "Asturian",
-  "ava": "Avaric",
-  "awa": "Awadhi",
-  "aym": "Aymara",
-  "aze": "Azerbaijani",
-  "bak": "Bashkir",
-  "bal": "Baluchi",
-  "bam": "Bambara",
-  "ban": "Balinese",
-  "baq": "Basque",
-  "eus": "Basque",
-  "bas": "Basa",
-  "bej": "Beja",
-  "bel": {"name":"Belarusian", "greeting": "Хрыстос уваскрос!", "response": "Сапраўды ўваскрос!"}, 
-  "bem": "Bemba",
-  "ben": "Bengali",
-  "bho": "Bhojpuri",
-  "bik": "Bikol",
-  "bin": "Bini",
-  "bis": "Bislama",
-  "bla": "Siksika",
-  "bod": "Tibetan",
-  "tib": "Tibetan",
-  "bos": "Bosnian",
-  "bra": "Braj",
-  "bre": "Breton",
-  "bua": "Buriat",
-  "bug": "Buginese",
-  "bul": {"name":"Bulgarian", "greeting": "Христос възкресе!", "response": "Воистина възкресе!"}, 
-  "bur": "Burmese",
-  "mya": "Burmese",
-  "byn": "Bilin",
-  "cad": "Caddo",
-  "car": "Galibi Carib",
-  "cat": {"name":"Catalan", "greeting": "¡Christo ha resuscitao!", "response": "¡En veridad ha resuscitao!"}, 
-  "ceb": "Cebuano",
-  "ces": "Czech",
-  "cze": "Czech",
-  "cha": "Chamorro",
-  "che": "Chechen",
-  "chi": "Chinese",
-  "zho": "Chinese",
-  "chk": "Chuukese",
-  "chm": "Mari",
-  "chn": "Chinook jargon",
-  "cho": "Choctaw",
-  "chp": "Chipewyan",
-  "chr": "Cherokee",
-  "chv": "Chuvash",
-  "chy": "Cheyenne",
-  "cor": "Cornish",
-  "cos": "Corsican",
-  "cre": "Cree",
-  "crh": "Crimean Tatar",
-  "csb": "Kashubian",
-  "cym": "Welsh",
-  "wel": "Welsh",
-  "dak": "Dakota",
-  "dan": "Danish",
-  "dar": "Dargwa",
-  "del": "Delaware",
-  "den": "Slave",
-  "deu": "German",
-  "ger": "German",
-  "dgr": "Dogrib",
-  "din": "Dinka",
-  "div": "Dhivehi",
-  "doi": "Dogri",
-  "dsb": "Lower Sorbian",
-  "dua": "Duala",
-  "dut": "Dutch",
-  "nld": "Dutch",
-  "dyu": "Dyula",
-  "dzo": "Dzongkha",
-  "efi": "Efik",
-  "eka": "Ekajuk",
-  "ell": {"name":"Modern Greek","greeting": "Xριστὸς ἀνέστη!", "response": "Ἀληθῶς ἀνέστη!"},
-  "gre": {"name":"Modern Greek","greeting": "Xριστὸς ἀνέστη!", "response": "Ἀληθῶς ἀνέστη!"},
-  "eng": {"name":"English", "greeting": "Christ is risen!", "response": "Indeed He is risen!"},
-  "est": "Estonian",
-  "ewe": "Ewe",
-  "ewo": "Ewondo",
-  "fan": "Fang",
-  "fao": "Faroese",
-  "fas": "Persian",
-  "per": "Persian",
-  "fat": "Fanti",
-  "fij": "Fijian",
-  "fil": "Filipino",
-  "fin": "Finnish",
-  "fon": "Fon",
-  "fra": "French",
-  "fre": "French",
-  "frr": "Northern Frisian",
-  "frs": "Eastern Frisian",
-  "fry": "Western Frisian",
-  "ful": "Fulah",
-  "fur": "Friulian",
-  "gaa": "Ga",
-  "gay": "Gayo",
-  "gba": "Gbaya",
-  "geo": "Georgian",
-  "kat": "Georgian",
-  "gil": "Gilbertese",
-  "gla": "Gaelic",
-  "gle": "Irish",
-  "glg": "Galician",
-  "glv": "Manx",
-  "gon": "Gondi",
-  "gor": "Gorontalo",
-  "grb": "Grebo",
-  "grn": "Guarani",
-  "gsw": "Swiss German",
-  "guj": "Gujarati",
-  "gwi": "Gwichʼin",
-  "hai": "Haida",
-  "hat": "Haitian",
-  "hau": "Hausa",
-  "haw": "Hawaiian",
-  "heb": "Hebrew",
-  "her": "Herero",
-  "hil": "Hiligaynon",
-  "hin": "Hindi",
-  "hmn": "Hmong",
-  "hmo": "Hiri Motu",
-  "hrv": {"name":"Croatian", "greeting": "Krist je ùskrsnuo!", "response": "Zàista je ùskrsnuo!"},
-  "hsb": "Upper Sorbian",
-  "hun": "Hungarian",
-  "hup": "Hupa",
-  "iba": "Iban",
-  "ibo": "Igbo",
-  "ice": "Icelandic",
-  "isl": "Icelandic",
-  "iii": "Sichuan Yi",
-  "iku": "Inuktitut",
-  "ilo": "Iloko",
-  "ind": "Indonesian",
-  "inh": "Ingush",
-  "ipk": "Inupiaq",
-  "ita": "Italian",
-  "jav": "Javanese",
-  "jpn": "Japanese",
-  "jpr": "Judeo-Persian",
-  "jrb": "Judeo-Arabic",
-  "kaa": "Kara-Kalpak",
-  "kab": "Kabyle",
-  "kac": "Kachin",
-  "kal": "Kalaallisut",
-  "kam": "Kamba",
-  "kan": "Kannada",
-  "kas": "Kashmiri",
-  "kau": "Kanuri",
-  "kaz": "Kazakh",
-  "kbd": "Kabardian",
-  "kha": "Khasi",
-  "khm": "Central Khmer",
-  "kik": "Kikuyu",
-  "kin": "Kinyarwanda",
-  "kir": "Kirghiz",
-  "kmb": "Kimbundu",
-  "kok": "Konkani",
-  "kom": "Komi",
-  "kon": "Kongo",
-  "kor": {"name":"Korean", "greeting": "그리스도께서 부활하셨습니다!", "response": "참으로 부활하셨습니다!"},
-  "kos": "Kosraean",
-  "kpe": "Kpelle",
-  "krc": "Karachay-Balkar",
-  "krl": "Karelian",
-  "kru": "Kurukh",
-  "kua": "Kuanyama",
-  "kum": "Kumyk",
-  "kur": "Kurdish",
-  "kut": "Kutenai",
-  "lad": "Ladino",
-  "lah": "Lahnda",
-  "lam": "Lamba",
-  "lao": "Lao",
-  "lav": "Latvian",
-  "lez": "Lezghian",
-  "lim": "Limburgan",
-  "lin": "Lingala",
-  "lit": "Lithuanian",
-  "lol": "Mongo",
-  "loz": "Lozi",
-  "ltz": "Luxembourgish",
-  "lua": {"name":"Luba-Lulua", "greeting": "Kristo wa kubika!", "response": "Bulelela wa kubika!"}, 
-  "lub": "Luba-Katanga",
-  "lug": "Ganda",
-  "lui": "Luiseno",
-  "lun": "Lunda",
-  "luo": "Luo",
-  "lus": "Lushai",
-  "mac": "Macedonian",
-  "mkd": "Macedonian",
-  "mad": "Madurese",
-  "mag": "Magahi",
-  "mah": "Marshallese",
-  "mai": "Maithili",
-  "mak": "Makasar",
-  "mal": "Malayalam",
-  "man": "Mandingo",
-  "mao": "Maori",
-  "mri": "Maori",
-  "mar": "Marathi",
-  "mas": "Masai",
-  "may": "Malay",
-  "msa": "Malay",
-  "mdf": "Moksha",
-  "mdr": "Mandar",
-  "men": "Mende",
-  "mic": "Mi'kmaq",
-  "min": "Minangkabau",
-  "mlg": "Malagasy",
-  "mlt": "Maltese",
-  "mnc": "Manchu",
-  "mni": "Manipuri",
-  "moh": "Mohawk",
-  "mon": "Mongolian",
-  "mos": "Mossi",
-  "mus": "Creek",
-  "mwl": "Mirandese",
-  "mwr": "Marwari",
-  "myv": "Erzya",
-  "nap": "Neapolitan",
-  "nau": "Nauru",
-  "nav": "Navajo",
-  "nbl": "South Ndebele",
-  "nde": "North Ndebele",
-  "ndo": "Ndonga",
-  "nds": "Low German",
-  "nep": "Nepali",
-  "new": "Nepal Bhasa",
-  "nia": "Nias",
-  "niu": "Niuean",
-  "nno": "Norwegian Nynorsk",
-  "nob": "Norwegian Bokmål",
-  "nog": "Nogai",
-  "nor": "Norwegian",
-  "nqo": "N'Ko",
-  "nso": "Pedi",
-  "nya": "Chichewa",
-  "nym": "Nyamwezi",
-  "nyn": "Nyankole",
-  "nyo": "Nyoro",
-  "nzi": "Nzima",
-  "oci": "Occitan",
-  "oji": "Ojibwa",
-  "ori": "Oriya",
-  "orm": "Oromo",
-  "osa": "Osage",
-  "oss": "Ossetian",
-  "pag": "Pangasinan",
-  "pam": "Pampanga",
-  "pan": "Panjabi",
-  "pap": "Papiamento",
-  "pau": "Palauan",
-  "pol": "Polish",
-  "pon": "Pohnpeian",
-  "por": "Portuguese",
-  "pus": "Pushto",
-  "que": "Quechua",
-  "raj": "Rajasthani",
-  "rap": "Rapanui",
-  "rar": "Rarotongan",
-  "roh": "Romansh",
-  "rom": "Romany",
-  "ron": "Romanian",
-  "rum": "Romanian",
-  "run": "Rundi",
-  "rup": "Aromanian",
-  "rus": "Russian",
-  "sad": "Sandawe",
-  "sag": "Sango",
-  "sah": "Yakut",
-  "sas": "Sasak",
-  "sat": "Santali",
-  "scn": "Sicilian",
-  "sco": "Scots",
-  "sel": "Selkup",
-  "shn": "Shan",
-  "sid": "Sidamo",
-  "sin": "Sinhala",
-  "slo": "Slovak",
-  "slk": "Slovak",
-  "slv": "Slovenian",
-  "sma": "Southern Sami",
-  "sme": "Northern Sami",
-  "smj": "Lule Sami",
-  "smn": "Inari Sami",
-  "smo": "Samoan",
-  "sms": "Skolt Sami",
-  "sna": "Shona",
-  "snd": "Sindhi",
-  "snk": "Soninke",
-  "som": "Somali",
-  "sot": "Southern Sotho",
-  "spa": "Spanish",
-  "srd": "Sardinian",
-  "srn": "Sranan Tongo",
-  "srp": "Serbian",
-  "srr": "Serer",
-  "ssw": "Swati",
-  "suk": "Sukuma",
-  "sun": "Sundanese",
-  "sus": "Susu",
-  "swa": "Swahili",
-  "swe": "Swedish",
-  "syr": "Syriac",
-  "tah": "Tahitian",
-  "tam": "Tamil",
-  "tat": "Tatar",
-  "tel": "Telugu",
-  "tem": "Timne",
-  "ter": "Tereno",
-  "tet": "Tetum",
-  "tgk": "Tajik",
-  "tgl": "Tagalog",
-  "tha": "Thai",
-  "tig": "Tigre",
-  "tir": "Tigrinya",
-  "tiv": "Tiv",
-  "tkl": "Tokelau",
-  "tli": "Tlingit",
-  "tmh": "Tamashek",
-  "tog": "Tonga",
-  "ton": "Tonga",
-  "tpi": "Tok Pisin",
-  "tsi": "Tsimshian",
-  "tsn": "Tswana",
-  "tso": "Tsonga",
-  "tuk": "Turkmen",
-  "tum": "Tumbuka",
-  "tur": "Turkish",
-  "tvl": "Tuvalua",
-  "twi": "Twi",
-  "tyv": "Tuvinian",
-  "udm": "Udmurt",
-  "uig": "Uighur",
-  "ukr": "Ukrainian",
-  "umb": "Umbundu",
-  "urd": "Urdu",
-  "uzb": "Uzbek",
-  "vai": "Vai",
-  "ven": "Venda",
-  "vie": "Vietnamese",
-  "vot": "Votic",
-  "wal": "Wolaitta",
-  "war": "Waray",
-  "was": "Washo",
-  "wln": "Walloon",
-  "wol": "Wolof",
-  "xal": "Kalmyk",
-  "xho": "Xhosa",
-  "yao": "Yao",
-  "yap": "Yapese",
-  "yid": "Yiddish",
-  "yor": "Yoruba",
-  "zap": "Zapotec",
-  "zen": "Zenaga",
-  "zgh": "Standard Moroccan Tamazight",
-  "zha": "Zhuang",
-  "zul": {"name":"Zulu", "greeting": "Kristo uvukile!", "response": "Qiniso uvukile!"},
-  "zun": "Zuni",
-  "zza": "Zaza"
+  "aar": {
+    "name": "Afar",
+    "greeting": "",
+    "response": ""
+  },
+  "abk": {
+    "name": "Abkhazian",
+    "greeting": "",
+    "response": ""
+  },
+  "ace": {
+    "name": "Achinese",
+    "greeting": "",
+    "response": ""
+  },
+  "ach": {
+    "name": "Acoli",
+    "greeting": "",
+    "response": ""
+  },
+  "ada": {
+    "name": "Adangme",
+    "greeting": "",
+    "response": ""
+  },
+  "ady": {
+    "name": "Adyghe",
+    "greeting": "",
+    "response": ""
+  },
+  "afr": {
+    "name": "Afrikaans",
+    "greeting": "Christus het opgestaan!",
+    "response": "Hy het waarlik opgestaan!"
+  },
+  "ain": {
+    "name": "Ainu",
+    "greeting": "",
+    "response": ""
+  },
+  "aka": {
+    "name": "Akan",
+    "greeting": "",
+    "response": ""
+  },
+  "alb": {
+    "name": "Albanian",
+    "greeting": "Krishti u ngjall!",
+    "response": "Vërtet u ngjall!"
+  },
+  "sqi": {
+    "name": "Albanian",
+    "greeting": "Krishti u ngjall!",
+    "response": "Vërtet u ngjall!"
+  },
+  "ale": {
+    "name": "Aleut",
+    "greeting": "Kristus aq ungwektaq!",
+    "response": "Pichinuq ungwektaq!"
+  },
+  "alt": {
+    "name": "Southern Altai",
+    "greeting": "",
+    "response": ""
+  },
+  "amh": {
+    "name": "Amharic",
+    "greeting": "ክርስቶስ ተንስዓ ሙታን!",
+    "response": "በአማን ተንስዓ!"
+  },
+  "anp": {
+    "name": "Angika",
+    "greeting": "",
+    "response": ""
+  },
+  "ara": {
+    "name": "Arabic",
+    "greeting": "المسيح قام!",
+    "response": "حقا قام!"
+  },
+  "arg": {
+    "name": "Aragonese",
+    "greeting": "Cristo ha resucitau!",
+    "response": "En verdat ha resucitau!"
+  },
+  "arm": {
+    "name": "Armenian",
+    "greeting": "Քրիստոս յարեաւ ի մեռելոց",
+    "response": "Օրհնեալ է Յարութիւնն Քրիստոսի"
+  },
+  "hye": {
+    "name": "Armenian",
+    "greeting": "Քրիստոս յարեաւ ի մեռելոց",
+    "response": "Օրհնեալ է Յարութիւնն Քրիստոսի"
+  },
+  "arn": {
+    "name": "Mapudungun",
+    "greeting": "",
+    "response": ""
+  },
+  "arp": {
+    "name": "Arapaho",
+    "greeting": "",
+    "response": ""
+  },
+  "arw": {
+    "name": "Arawak",
+    "greeting": "",
+    "response": ""
+  },
+  "asm": {
+    "name": "Assamese",
+    "greeting": "",
+    "response": ""
+  },
+  "ast": {
+    "name": "Asturian",
+    "greeting": "",
+    "response": ""
+  },
+  "ava": {
+    "name": "Avaric",
+    "greeting": "",
+    "response": ""
+  },
+  "awa": {
+    "name": "Awadhi",
+    "greeting": "",
+    "response": ""
+  },
+  "aym": {
+    "name": "Aymara",
+    "greeting": "",
+    "response": ""
+  },
+  "aze": {
+    "name": "Azerbaijani",
+    "greeting": "Məsih dirildi!",
+    "response": "Həqiqətən dirildi!"
+  },
+  "bak": {
+    "name": "Bashkir",
+    "greeting": "",
+    "response": ""
+  },
+  "bal": {
+    "name": "Baluchi",
+    "greeting": "",
+    "response": ""
+  },
+  "bam": {
+    "name": "Bambara",
+    "greeting": "",
+    "response": ""
+  },
+  "ban": {
+    "name": "Balinese",
+    "greeting": "",
+    "response": ""
+  },
+  "baq": {
+    "name": "Basque",
+    "greeting": "Kristo piztu da!",
+    "response": "Zinez piztu da!"
+  },
+  "eus": {
+    "name": "Basque",
+    "greeting": "Kristo piztu da!",
+    "response": "Zinez piztu da!"
+  },
+  "bas": {
+    "name": "Basa",
+    "greeting": "",
+    "response": ""
+  },
+  "bej": {
+    "name": "Beja",
+    "greeting": "",
+    "response": ""
+  },
+  "bel": {
+    "name": "Belarusian",
+    "greeting": "Хрыстос уваскрос!",
+    "response": "Сапраўды ўваскрос!"
+  },
+  "bem": {
+    "name": "Bemba",
+    "greeting": "",
+    "response": ""
+  },
+  "ben": {
+    "name": "Bengali",
+    "greeting": "খ্রীষ্ট যীশু পুনরুত্থিত হয়েছেন!",
+    "response": "সত্যিই তিনি পুনরুত্থিত হয়েছেন!"
+  },
+  "bho": {
+    "name": "Bhojpuri",
+    "greeting": "",
+    "response": ""
+  },
+  "bik": {
+    "name": "Bikol",
+    "greeting": "",
+    "response": ""
+  },
+  "bin": {
+    "name": "Bini",
+    "greeting": "",
+    "response": ""
+  },
+  "bis": {
+    "name": "Bislama",
+    "greeting": "",
+    "response": ""
+  },
+  "bla": {
+    "name": "Siksika",
+    "greeting": "",
+    "response": ""
+  },
+  "bod": {
+    "name": "Tibetan",
+    "greeting": "",
+    "response": ""
+  },
+  "tib": {
+    "name": "Tibetan",
+    "greeting": "",
+    "response": ""
+  },
+  "bos": {
+    "name": "Bosnian",
+    "greeting": "Hristos vaskrse!",
+    "response": "Vaistinu vaskrse!"
+  },
+  "bra": {
+    "name": "Braj",
+    "greeting": "",
+    "response": ""
+  },
+  "bre": {
+    "name": "Breton",
+    "greeting": "Dassorc'het eo Krist!",
+    "response": "E gwirionez eo dassorc'het!"
+  },
+  "bua": {
+    "name": "Buriat",
+    "greeting": "",
+    "response": ""
+  },
+  "bug": {
+    "name": "Buginese",
+    "greeting": "",
+    "response": ""
+  },
+  "bul": {
+    "name": "Bulgarian",
+    "greeting": "Христос воскресе!",
+    "response": "Воистина воскресе!"
+  },
+  "bur": {
+    "name": "Burmese",
+    "greeting": "",
+    "response": ""
+  },
+  "mya": {
+    "name": "Burmese",
+    "greeting": "",
+    "response": ""
+  },
+  "byn": {
+    "name": "Bilin",
+    "greeting": "",
+    "response": ""
+  },
+  "cad": {
+    "name": "Caddo",
+    "greeting": "",
+    "response": ""
+  },
+  "car": {
+    "name": "Galibi Carib",
+    "greeting": "",
+    "response": ""
+  },
+  "cat": {
+    "name": "Catalan",
+    "greeting": "Crist ha ressuscitat!",
+    "response": "Veritablement ha ressuscitat!"
+  },
+  "ceb": {
+    "name": "Cebuano",
+    "greeting": "Si Kristo nabanhaw!",
+    "response": "Tinuod gayud nga siya nabanhaw!"
+  },
+  "ces": {
+    "name": "Czech",
+    "greeting": "Kristus vstal z mrtvých!",
+    "response": "Vpravdě vstal z mrtvých!"
+  },
+  "cze": {
+    "name": "Czech",
+    "greeting": "Kristus vstal z mrtvých!",
+    "response": "Vpravdě vstal z mrtvých!"
+  },
+  "cha": {
+    "name": "Chamorro",
+    "greeting": "",
+    "response": ""
+  },
+  "che": {
+    "name": "Chechen",
+    "greeting": "",
+    "response": ""
+  },
+  "chi": {
+    "name": "Chinese",
+    "greeting": "基督复活了!",
+    "response": "他确实复活了!"
+  },
+  "zho": {
+    "name": "Chinese",
+    "greeting": "基督复活了!",
+    "response": "他确实复活了!"
+  },
+  "chk": {
+    "name": "Chuukese",
+    "greeting": "",
+    "response": ""
+  },
+  "chm": {
+    "name": "Mari",
+    "greeting": "",
+    "response": ""
+  },
+  "chn": {
+    "name": "Chinook jargon",
+    "greeting": "",
+    "response": ""
+  },
+  "cho": {
+    "name": "Choctaw",
+    "greeting": "",
+    "response": ""
+  },
+  "chp": {
+    "name": "Chipewyan",
+    "greeting": "",
+    "response": ""
+  },
+  "chr": {
+    "name": "Cherokee",
+    "greeting": "",
+    "response": ""
+  },
+  "chv": {
+    "name": "Chuvash",
+    "greeting": "",
+    "response": ""
+  },
+  "chy": {
+    "name": "Cheyenne",
+    "greeting": "",
+    "response": ""
+  },
+  "cor": {
+    "name": "Cornish",
+    "greeting": "Dassorghys yw Krist!",
+    "response": "Yn hwir dassorghys yw ev!"
+  },
+  "cos": {
+    "name": "Corsican",
+    "greeting": "",
+    "response": ""
+  },
+  "cre": {
+    "name": "Cree",
+    "greeting": "",
+    "response": ""
+  },
+  "crh": {
+    "name": "Crimean Tatar",
+    "greeting": "",
+    "response": ""
+  },
+  "csb": {
+    "name": "Kashubian",
+    "greeting": "",
+    "response": ""
+  },
+  "cym": {
+    "name": "Welsh",
+    "greeting": "Atgyfododd Crist!",
+    "response": "Yn wir, atgyfododd!"
+  },
+  "wel": {
+    "name": "Welsh",
+    "greeting": "Atgyfododd Crist!",
+    "response": "Yn wir, atgyfododd!"
+  },
+  "dak": {
+    "name": "Dakota",
+    "greeting": "",
+    "response": ""
+  },
+  "dan": {
+    "name": "Danish",
+    "greeting": "Kristus er opstanden!",
+    "response": "Ja, sandelig Han er opstanden!"
+  },
+  "dar": {
+    "name": "Dargwa",
+    "greeting": "",
+    "response": ""
+  },
+  "del": {
+    "name": "Delaware",
+    "greeting": "",
+    "response": ""
+  },
+  "den": {
+    "name": "Slave",
+    "greeting": "",
+    "response": ""
+  },
+  "deu": {
+    "name": "German",
+    "greeting": "Christus ist auferstanden!",
+    "response": "Er ist wahrhaftig auferstanden!"
+  },
+  "ger": {
+    "name": "German",
+    "greeting": "Christus ist auferstanden!",
+    "response": "Er ist wahrhaftig auferstanden!"
+  },
+  "dgr": {
+    "name": "Dogrib",
+    "greeting": "",
+    "response": ""
+  },
+  "din": {
+    "name": "Dinka",
+    "greeting": "",
+    "response": ""
+  },
+  "div": {
+    "name": "Dhivehi",
+    "greeting": "",
+    "response": ""
+  },
+  "doi": {
+    "name": "Dogri",
+    "greeting": "",
+    "response": ""
+  },
+  "dsb": {
+    "name": "Lower Sorbian",
+    "greeting": "",
+    "response": ""
+  },
+  "dua": {
+    "name": "Duala",
+    "greeting": "",
+    "response": ""
+  },
+  "dut": {
+    "name": "Dutch",
+    "greeting": "Christus is opgestaan!",
+    "response": "Hij is waarlijk opgestaan!"
+  },
+  "nld": {
+    "name": "Dutch",
+    "greeting": "Christus is opgestaan!",
+    "response": "Hij is waarlijk opgestaan!"
+  },
+  "dyu": {
+    "name": "Dyula",
+    "greeting": "",
+    "response": ""
+  },
+  "dzo": {
+    "name": "Dzongkha",
+    "greeting": "",
+    "response": ""
+  },
+  "efi": {
+    "name": "Efik",
+    "greeting": "",
+    "response": ""
+  },
+  "eka": {
+    "name": "Ekajuk",
+    "greeting": "",
+    "response": ""
+  },
+  "ell": {
+    "name": "Modern Greek",
+    "greeting": "Χριστὸς ἀνέστη!",
+    "response": "Ἀληθῶς ἀνέστη!"
+  },
+  "gre": {
+    "name": "Modern Greek",
+    "greeting": "Χριστὸς ἀνέστη!",
+    "response": "Ἀληθῶς ἀνέστη!"
+  },
+  "eng": {
+    "name": "English",
+    "greeting": "Christ is risen!",
+    "response": "Indeed He is risen!"
+  },
+  "est": {
+    "name": "Estonian",
+    "greeting": "Kristus on üles tõusnud!",
+    "response": "Tõesti, Ta on üles tõusnud!"
+  },
+  "ewe": {
+    "name": "Ewe",
+    "greeting": "",
+    "response": ""
+  },
+  "ewo": {
+    "name": "Ewondo",
+    "greeting": "",
+    "response": ""
+  },
+  "fan": {
+    "name": "Fang",
+    "greeting": "",
+    "response": ""
+  },
+  "fao": {
+    "name": "Faroese",
+    "greeting": "",
+    "response": ""
+  },
+  "fas": {
+    "name": "Persian",
+    "greeting": "مسیح برخاسته است!",
+    "response": "به راستی برخاسته است!"
+  },
+  "per": {
+    "name": "Persian",
+    "greeting": "مسیح برخاسته است!",
+    "response": "به راستی برخاسته است!"
+  },
+  "fat": {
+    "name": "Fanti",
+    "greeting": "",
+    "response": ""
+  },
+  "fij": {
+    "name": "Fijian",
+    "greeting": "",
+    "response": ""
+  },
+  "fil": {
+    "name": "Filipino",
+    "greeting": "Si Kristo ay nabuhay!",
+    "response": "Siya nga ay nabuhay!"
+  },
+  "fin": {
+    "name": "Finnish",
+    "greeting": "Kristus on noussut kuolleista!",
+    "response": "Totisesti nousi!"
+  },
+  "fon": {
+    "name": "Fon",
+    "greeting": "",
+    "response": ""
+  },
+  "fra": {
+    "name": "French",
+    "greeting": "Le Christ est ressuscité!",
+    "response": "Il est vraiment ressuscité!"
+  },
+  "fre": {
+    "name": "French",
+    "greeting": "Le Christ est ressuscité!",
+    "response": "Il est vraiment ressuscité!"
+  },
+  "frr": {
+    "name": "Northern Frisian",
+    "greeting": "",
+    "response": ""
+  },
+  "frs": {
+    "name": "Eastern Frisian",
+    "greeting": "",
+    "response": ""
+  },
+  "fry": {
+    "name": "Western Frisian",
+    "greeting": "",
+    "response": ""
+  },
+  "ful": {
+    "name": "Fulah",
+    "greeting": "",
+    "response": ""
+  },
+  "fur": {
+    "name": "Friulian",
+    "greeting": "",
+    "response": ""
+  },
+  "gaa": {
+    "name": "Ga",
+    "greeting": "",
+    "response": ""
+  },
+  "gay": {
+    "name": "Gayo",
+    "greeting": "",
+    "response": ""
+  },
+  "gba": {
+    "name": "Gbaya",
+    "greeting": "",
+    "response": ""
+  },
+  "geo": {
+    "name": "Georgian",
+    "greeting": "ქრისტე აღსდგა!",
+    "response": "ჭეშმარიტად აღსდგა!"
+  },
+  "kat": {
+    "name": "Georgian",
+    "greeting": "ქრისტე აღსდგა!",
+    "response": "ჭეშმარიტად აღსდგა!"
+  },
+  "gil": {
+    "name": "Gilbertese",
+    "greeting": "",
+    "response": ""
+  },
+  "gla": {
+    "name": "Gaelic",
+    "greeting": "Tha Crìosd air éirigh!",
+    "response": "Gu dearbh, tha e air éirigh!"
+  },
+  "gle": {
+    "name": "Irish",
+    "greeting": "Tá Críost éirithe!",
+    "response": "Go deimhin, tá sé éirithe!"
+  },
+  "glg": {
+    "name": "Galician",
+    "greeting": "Cristo resucitou!",
+    "response": "De verdade resucitou!"
+  },
+  "glv": {
+    "name": "Manx",
+    "greeting": "Ta Creest er n'irree!",
+    "response": "Dy firrinagh t'eh er n'irree!"
+  },
+  "gon": {
+    "name": "Gondi",
+    "greeting": "",
+    "response": ""
+  },
+  "gor": {
+    "name": "Gorontalo",
+    "greeting": "",
+    "response": ""
+  },
+  "grb": {
+    "name": "Grebo",
+    "greeting": "",
+    "response": ""
+  },
+  "grn": {
+    "name": "Guarani",
+    "greeting": "",
+    "response": ""
+  },
+  "gsw": {
+    "name": "Swiss German",
+    "greeting": "",
+    "response": ""
+  },
+  "guj": {
+    "name": "Gujarati",
+    "greeting": "ઈસુ ખ્રિસ્ત પુનરુત્થાન પામ્યા છે!",
+    "response": "તેઓ ખરેખર પુનરુત્થાન પામ્યા છે!"
+  },
+  "gwi": {
+    "name": "Gwichʼin",
+    "greeting": "",
+    "response": ""
+  },
+  "hai": {
+    "name": "Haida",
+    "greeting": "",
+    "response": ""
+  },
+  "hat": {
+    "name": "Haitian",
+    "greeting": "Kris leve!",
+    "response": "Li leve vrèman!"
+  },
+  "hau": {
+    "name": "Hausa",
+    "greeting": "",
+    "response": ""
+  },
+  "haw": {
+    "name": "Hawaiian",
+    "greeting": "Ua ala hou ʻo Kristo!",
+    "response": "Ua ala ʻiʻo nō ʻo Ia!"
+  },
+  "heb": {
+    "name": "Hebrew",
+    "greeting": "המשיח קם!",
+    "response": "באמת קם!"
+  },
+  "her": {
+    "name": "Herero",
+    "greeting": "",
+    "response": ""
+  },
+  "hil": {
+    "name": "Hiligaynon",
+    "greeting": "",
+    "response": ""
+  },
+  "hin": {
+    "name": "Hindi",
+    "greeting": "मसीह जी उठे हैं!",
+    "response": "सचमुच जी उठे हैं!"
+  },
+  "hmn": {
+    "name": "Hmong",
+    "greeting": "",
+    "response": ""
+  },
+  "hmo": {
+    "name": "Hiri Motu",
+    "greeting": "",
+    "response": ""
+  },
+  "hrv": {
+    "name": "Croatian",
+    "greeting": "Krist je uskrsnuo!",
+    "response": "Uistinu je uskrsnuo!"
+  },
+  "hsb": {
+    "name": "Upper Sorbian",
+    "greeting": "",
+    "response": ""
+  },
+  "hun": {
+    "name": "Hungarian",
+    "greeting": "Krisztus feltámadt!",
+    "response": "Valóban feltámadt!"
+  },
+  "hup": {
+    "name": "Hupa",
+    "greeting": "",
+    "response": ""
+  },
+  "iba": {
+    "name": "Iban",
+    "greeting": "",
+    "response": ""
+  },
+  "ibo": {
+    "name": "Igbo",
+    "greeting": "Kraịst ebiliwo!",
+    "response": "N'ezie o biliwo!"
+  },
+  "ice": {
+    "name": "Icelandic",
+    "greeting": "Kristur er upprisinn!",
+    "response": "Hann er sannarlega upprisinn!"
+  },
+  "isl": {
+    "name": "Icelandic",
+    "greeting": "Kristur er upprisinn!",
+    "response": "Hann er sannarlega upprisinn!"
+  },
+  "iii": {
+    "name": "Sichuan Yi",
+    "greeting": "",
+    "response": ""
+  },
+  "iku": {
+    "name": "Inuktitut",
+    "greeting": "",
+    "response": ""
+  },
+  "ilo": {
+    "name": "Iloko",
+    "greeting": "",
+    "response": ""
+  },
+  "ind": {
+    "name": "Indonesian",
+    "greeting": "Kristus telah bangkit!",
+    "response": "Dia benar-benar telah bangkit!"
+  },
+  "inh": {
+    "name": "Ingush",
+    "greeting": "",
+    "response": ""
+  },
+  "ipk": {
+    "name": "Inupiaq",
+    "greeting": "",
+    "response": ""
+  },
+  "ita": {
+    "name": "Italian",
+    "greeting": "Cristo è risorto!",
+    "response": "È veramente risorto!"
+  },
+  "jav": {
+    "name": "Javanese",
+    "greeting": "",
+    "response": ""
+  },
+  "jpn": {
+    "name": "Japanese",
+    "greeting": "ハリストス復活！",
+    "response": "実に復活！"
+  },
+  "jpr": {
+    "name": "Judeo-Persian",
+    "greeting": "",
+    "response": ""
+  },
+  "jrb": {
+    "name": "Judeo-Arabic",
+    "greeting": "",
+    "response": ""
+  },
+  "kaa": {
+    "name": "Kara-Kalpak",
+    "greeting": "",
+    "response": ""
+  },
+  "kab": {
+    "name": "Kabyle",
+    "greeting": "",
+    "response": ""
+  },
+  "kac": {
+    "name": "Kachin",
+    "greeting": "",
+    "response": ""
+  },
+  "kal": {
+    "name": "Kalaallisut",
+    "greeting": "",
+    "response": ""
+  },
+  "kam": {
+    "name": "Kamba",
+    "greeting": "",
+    "response": ""
+  },
+  "kan": {
+    "name": "Kannada",
+    "greeting": "ಕ್ರಿಸ್ತನು ಪುನರುತ್ಥಾನಗೊಂಡಿದ್ದಾನೆ!",
+    "response": "ನಿಜವಾಗಿಯೂ ಅವನು ಪುನರುತ್ಥಾನಗೊಂಡಿದ್ದಾನೆ!"
+  },
+  "kas": {
+    "name": "Kashmiri",
+    "greeting": "",
+    "response": ""
+  },
+  "kau": {
+    "name": "Kanuri",
+    "greeting": "",
+    "response": ""
+  },
+  "kaz": {
+    "name": "Kazakh",
+    "greeting": "",
+    "response": ""
+  },
+  "kbd": {
+    "name": "Kabardian",
+    "greeting": "",
+    "response": ""
+  },
+  "kha": {
+    "name": "Khasi",
+    "greeting": "",
+    "response": ""
+  },
+  "khm": {
+    "name": "Central Khmer",
+    "greeting": "",
+    "response": ""
+  },
+  "kik": {
+    "name": "Kikuyu",
+    "greeting": "",
+    "response": ""
+  },
+  "kin": {
+    "name": "Kinyarwanda",
+    "greeting": "",
+    "response": ""
+  },
+  "kir": {
+    "name": "Kirghiz",
+    "greeting": "",
+    "response": ""
+  },
+  "kmb": {
+    "name": "Kimbundu",
+    "greeting": "",
+    "response": ""
+  },
+  "kok": {
+    "name": "Konkani",
+    "greeting": "",
+    "response": ""
+  },
+  "kom": {
+    "name": "Komi",
+    "greeting": "",
+    "response": ""
+  },
+  "kon": {
+    "name": "Kongo",
+    "greeting": "",
+    "response": ""
+  },
+  "kor": {
+    "name": "Korean",
+    "greeting": "그리스도께서 부활하셨습니다!",
+    "response": "참으로 부활하셨습니다!"
+  },
+  "kos": {
+    "name": "Kosraean",
+    "greeting": "",
+    "response": ""
+  },
+  "kpe": {
+    "name": "Kpelle",
+    "greeting": "",
+    "response": ""
+  },
+  "krc": {
+    "name": "Karachay-Balkar",
+    "greeting": "",
+    "response": ""
+  },
+  "krl": {
+    "name": "Karelian",
+    "greeting": "",
+    "response": ""
+  },
+  "kru": {
+    "name": "Kurukh",
+    "greeting": "",
+    "response": ""
+  },
+  "kua": {
+    "name": "Kuanyama",
+    "greeting": "",
+    "response": ""
+  },
+  "kum": {
+    "name": "Kumyk",
+    "greeting": "",
+    "response": ""
+  },
+  "kur": {
+    "name": "Kurdish",
+    "greeting": "Mesîh zindî bûye!",
+    "response": "Bi rastî zindî bûye!"
+  },
+  "kut": {
+    "name": "Kutenai",
+    "greeting": "",
+    "response": ""
+  },
+  "lad": {
+    "name": "Ladino",
+    "greeting": "",
+    "response": ""
+  },
+  "lah": {
+    "name": "Lahnda",
+    "greeting": "",
+    "response": ""
+  },
+  "lam": {
+    "name": "Lamba",
+    "greeting": "",
+    "response": ""
+  },
+  "lao": {
+    "name": "Lao",
+    "greeting": "ພຣະຄຣິດໄດ້ຄືນພຣະຊົນແລ້ວ!",
+    "response": "ພຣະອົງໄດ້ຄືນພຣະຊົນແທ້ໆ!"
+  },
+  "lav": {
+    "name": "Latvian",
+    "greeting": "Kristus ir augšāmcēlies!",
+    "response": "Patiesi Viņš ir augšāmcēlies!"
+  },
+  "lez": {
+    "name": "Lezghian",
+    "greeting": "",
+    "response": ""
+  },
+  "lim": {
+    "name": "Limburgan",
+    "greeting": "",
+    "response": ""
+  },
+  "lin": {
+    "name": "Lingala",
+    "greeting": "Kristo asekwí!",
+    "response": "Asekwí mpenzá!"
+  },
+  "lit": {
+    "name": "Lithuanian",
+    "greeting": "Kristus prisikėlė!",
+    "response": "Tikrai prisikėlė!"
+  },
+  "lol": {
+    "name": "Mongo",
+    "greeting": "",
+    "response": ""
+  },
+  "loz": {
+    "name": "Lozi",
+    "greeting": "",
+    "response": ""
+  },
+  "ltz": {
+    "name": "Luxembourgish",
+    "greeting": "",
+    "response": ""
+  },
+  "lua": {
+    "name": "Luba-Lulua",
+    "greeting": "Kristo wa kubika!",
+    "response": "Bulelela wa kubika!"
+  },
+  "lub": {
+    "name": "Luba-Katanga",
+    "greeting": "",
+    "response": ""
+  },
+  "lug": {
+    "name": "Ganda",
+    "greeting": "Kristo azuukidde!",
+    "response": "Azuukidde ddala!"
+  },
+  "lui": {
+    "name": "Luiseno",
+    "greeting": "",
+    "response": ""
+  },
+  "lun": {
+    "name": "Lunda",
+    "greeting": "",
+    "response": ""
+  },
+  "luo": {
+    "name": "Luo",
+    "greeting": "",
+    "response": ""
+  },
+  "lus": {
+    "name": "Lushai",
+    "greeting": "",
+    "response": ""
+  },
+  "mac": {
+    "name": "Macedonian",
+    "greeting": "Христос воскресе!",
+    "response": "Навистина воскресе!"
+  },
+  "mkd": {
+    "name": "Macedonian",
+    "greeting": "Христос воскресе!",
+    "response": "Навистина воскресе!"
+  },
+  "mad": {
+    "name": "Madurese",
+    "greeting": "",
+    "response": ""
+  },
+  "mag": {
+    "name": "Magahi",
+    "greeting": "",
+    "response": ""
+  },
+  "mah": {
+    "name": "Marshallese",
+    "greeting": "",
+    "response": ""
+  },
+  "mai": {
+    "name": "Maithili",
+    "greeting": "",
+    "response": ""
+  },
+  "mak": {
+    "name": "Makasar",
+    "greeting": "",
+    "response": ""
+  },
+  "mal": {
+    "name": "Malayalam",
+    "greeting": "ക്രിസ്തു ഉയിർത്തെഴുന്നേറ്റിരിക്കുന്നു!",
+    "response": "സത്യമായും അവിടുന്ന് ഉയിർത്തെഴുന്നേറ്റിരിക്കുന്നു!"
+  },
+  "man": {
+    "name": "Mandingo",
+    "greeting": "",
+    "response": ""
+  },
+  "mao": {
+    "name": "Maori",
+    "greeting": "Kua ara te Karaiti!",
+    "response": "Kua ara Ia, mārika!"
+  },
+  "mri": {
+    "name": "Maori",
+    "greeting": "Kua ara te Karaiti!",
+    "response": "Kua ara Ia, mārika!"
+  },
+  "mar": {
+    "name": "Marathi",
+    "greeting": "ख्रिस्त उठला आहे!",
+    "response": "खरंच तो उठला आहे!"
+  },
+  "mas": {
+    "name": "Masai",
+    "greeting": "",
+    "response": ""
+  },
+  "may": {
+    "name": "Malay",
+    "greeting": "Kristus telah bangkit!",
+    "response": "Sesungguhnya Dia telah bangkit!"
+  },
+  "msa": {
+    "name": "Malay",
+    "greeting": "Kristus telah bangkit!",
+    "response": "Sesungguhnya Dia telah bangkit!"
+  },
+  "mdf": {
+    "name": "Moksha",
+    "greeting": "",
+    "response": ""
+  },
+  "mdr": {
+    "name": "Mandar",
+    "greeting": "",
+    "response": ""
+  },
+  "men": {
+    "name": "Mende",
+    "greeting": "",
+    "response": ""
+  },
+  "mic": {
+    "name": "Mi'kmaq",
+    "greeting": "",
+    "response": ""
+  },
+  "min": {
+    "name": "Minangkabau",
+    "greeting": "",
+    "response": ""
+  },
+  "mlg": {
+    "name": "Malagasy",
+    "greeting": "Efa nitsangana i Kristy!",
+    "response": "Efa nitsangana tokoa Izy!"
+  },
+  "mlt": {
+    "name": "Maltese",
+    "greeting": "Kristu qam!",
+    "response": "Hekk hu, Kristu qam!"
+  },
+  "mnc": {
+    "name": "Manchu",
+    "greeting": "",
+    "response": ""
+  },
+  "mni": {
+    "name": "Manipuri",
+    "greeting": "",
+    "response": ""
+  },
+  "moh": {
+    "name": "Mohawk",
+    "greeting": "",
+    "response": ""
+  },
+  "mon": {
+    "name": "Mongolian",
+    "greeting": "",
+    "response": ""
+  },
+  "mos": {
+    "name": "Mossi",
+    "greeting": "",
+    "response": ""
+  },
+  "mus": {
+    "name": "Creek",
+    "greeting": "",
+    "response": ""
+  },
+  "mwl": {
+    "name": "Mirandese",
+    "greeting": "",
+    "response": ""
+  },
+  "mwr": {
+    "name": "Marwari",
+    "greeting": "",
+    "response": ""
+  },
+  "myv": {
+    "name": "Erzya",
+    "greeting": "",
+    "response": ""
+  },
+  "nap": {
+    "name": "Neapolitan",
+    "greeting": "",
+    "response": ""
+  },
+  "nau": {
+    "name": "Nauru",
+    "greeting": "",
+    "response": ""
+  },
+  "nav": {
+    "name": "Navajo",
+    "greeting": "",
+    "response": ""
+  },
+  "nbl": {
+    "name": "South Ndebele",
+    "greeting": "",
+    "response": ""
+  },
+  "nde": {
+    "name": "North Ndebele",
+    "greeting": "",
+    "response": ""
+  },
+  "ndo": {
+    "name": "Ndonga",
+    "greeting": "",
+    "response": ""
+  },
+  "nds": {
+    "name": "Low German",
+    "greeting": "",
+    "response": ""
+  },
+  "nep": {
+    "name": "Nepali",
+    "greeting": "ख्रीष्ट येशू बौरी उठ्नुभएको छ!",
+    "response": "साँच्चै नै उहाँ बौरी उठ्नुभएको छ!"
+  },
+  "new": {
+    "name": "Nepal Bhasa",
+    "greeting": "",
+    "response": ""
+  },
+  "nia": {
+    "name": "Nias",
+    "greeting": "",
+    "response": ""
+  },
+  "niu": {
+    "name": "Niuean",
+    "greeting": "",
+    "response": ""
+  },
+  "nno": {
+    "name": "Norwegian Nynorsk",
+    "greeting": "Kristus er oppstanden!",
+    "response": "Han er sannelig oppstanden!"
+  },
+  "nob": {
+    "name": "Norwegian Bokmål",
+    "greeting": "Kristus er oppstanden!",
+    "response": "Han er sannelig oppstanden!"
+  },
+  "nog": {
+    "name": "Nogai",
+    "greeting": "",
+    "response": ""
+  },
+  "nor": {
+    "name": "Norwegian",
+    "greeting": "Kristus er oppstanden!",
+    "response": "Han er sannelig oppstanden!"
+  },
+  "nqo": {
+    "name": "N'Ko",
+    "greeting": "",
+    "response": ""
+  },
+  "nso": {
+    "name": "Pedi",
+    "greeting": "",
+    "response": ""
+  },
+  "nya": {
+    "name": "Chichewa",
+    "greeting": "",
+    "response": ""
+  },
+  "nym": {
+    "name": "Nyamwezi",
+    "greeting": "",
+    "response": ""
+  },
+  "nyn": {
+    "name": "Nyankole",
+    "greeting": "",
+    "response": ""
+  },
+  "nyo": {
+    "name": "Nyoro",
+    "greeting": "",
+    "response": ""
+  },
+  "nzi": {
+    "name": "Nzima",
+    "greeting": "",
+    "response": ""
+  },
+  "oci": {
+    "name": "Occitan",
+    "greeting": "",
+    "response": ""
+  },
+  "oji": {
+    "name": "Ojibwa",
+    "greeting": "",
+    "response": ""
+  },
+  "ori": {
+    "name": "Oriya",
+    "greeting": "",
+    "response": ""
+  },
+  "orm": {
+    "name": "Oromo",
+    "greeting": "",
+    "response": ""
+  },
+  "osa": {
+    "name": "Osage",
+    "greeting": "",
+    "response": ""
+  },
+  "oss": {
+    "name": "Ossetian",
+    "greeting": "",
+    "response": ""
+  },
+  "pag": {
+    "name": "Pangasinan",
+    "greeting": "",
+    "response": ""
+  },
+  "pam": {
+    "name": "Pampanga",
+    "greeting": "",
+    "response": ""
+  },
+  "pan": {
+    "name": "Panjabi",
+    "greeting": "ਮਸੀਹ ਜੀ ਉੱਠੇ ਹਨ!",
+    "response": "ਸੱਚਮੁੱਚ ਉਹ ਜੀ ਉੱਠੇ ਹਨ!"
+  },
+  "pap": {
+    "name": "Papiamento",
+    "greeting": "",
+    "response": ""
+  },
+  "pau": {
+    "name": "Palauan",
+    "greeting": "",
+    "response": ""
+  },
+  "pol": {
+    "name": "Polish",
+    "greeting": "Chrystus zmartwychwstał!",
+    "response": "Prawdziwie zmartwychwstał!"
+  },
+  "pon": {
+    "name": "Pohnpeian",
+    "greeting": "",
+    "response": ""
+  },
+  "por": {
+    "name": "Portuguese",
+    "greeting": "Cristo ressuscitou!",
+    "response": "Verdadeiramente ressuscitou!"
+  },
+  "pus": {
+    "name": "Pushto",
+    "greeting": "مسیح راپاڅېدلی دی!",
+    "response": "په رښتیا راپاڅېدلی دی!"
+  },
+  "que": {
+    "name": "Quechua",
+    "greeting": "",
+    "response": ""
+  },
+  "raj": {
+    "name": "Rajasthani",
+    "greeting": "",
+    "response": ""
+  },
+  "rap": {
+    "name": "Rapanui",
+    "greeting": "",
+    "response": ""
+  },
+  "rar": {
+    "name": "Rarotongan",
+    "greeting": "",
+    "response": ""
+  },
+  "roh": {
+    "name": "Romansh",
+    "greeting": "",
+    "response": ""
+  },
+  "rom": {
+    "name": "Romany",
+    "greeting": "",
+    "response": ""
+  },
+  "ron": {
+    "name": "Romanian",
+    "greeting": "Hristos a înviat!",
+    "response": "Adevărat a înviat!"
+  },
+  "rum": {
+    "name": "Romanian",
+    "greeting": "Hristos a înviat!",
+    "response": "Adevărat a înviat!"
+  },
+  "run": {
+    "name": "Rundi",
+    "greeting": "",
+    "response": ""
+  },
+  "rup": {
+    "name": "Aromanian",
+    "greeting": "",
+    "response": ""
+  },
+  "rus": {
+    "name": "Russian",
+    "greeting": "Христос воскресе!",
+    "response": "Воистину воскресе!"
+  },
+  "sad": {
+    "name": "Sandawe",
+    "greeting": "",
+    "response": ""
+  },
+  "sag": {
+    "name": "Sango",
+    "greeting": "",
+    "response": ""
+  },
+  "sah": {
+    "name": "Yakut",
+    "greeting": "",
+    "response": ""
+  },
+  "sas": {
+    "name": "Sasak",
+    "greeting": "",
+    "response": ""
+  },
+  "sat": {
+    "name": "Santali",
+    "greeting": "",
+    "response": ""
+  },
+  "scn": {
+    "name": "Sicilian",
+    "greeting": "",
+    "response": ""
+  },
+  "sco": {
+    "name": "Scots",
+    "greeting": "Christ is risen!",
+    "response": "He is daithles an siccar risen!"
+  },
+  "sel": {
+    "name": "Selkup",
+    "greeting": "",
+    "response": ""
+  },
+  "shn": {
+    "name": "Shan",
+    "greeting": "",
+    "response": ""
+  },
+  "sid": {
+    "name": "Sidamo",
+    "greeting": "",
+    "response": ""
+  },
+  "sin": {
+    "name": "Sinhala",
+    "greeting": "ක්‍රිස්තුස් වහන්සේ උත්ථාන වී ඇත!",
+    "response": "සැබවින්ම උත්ථාන වී ඇත!"
+  },
+  "slo": {
+    "name": "Slovak",
+    "greeting": "Kristus vstal z mŕtvych!",
+    "response": "Vpravde vstal z mŕtvych!"
+  },
+  "slk": {
+    "name": "Slovak",
+    "greeting": "Kristus vstal z mŕtvych!",
+    "response": "Vpravde vstal z mŕtvych!"
+  },
+  "slv": {
+    "name": "Slovenian",
+    "greeting": "Kristus je vstal!",
+    "response": "Zares je vstal!"
+  },
+  "sma": {
+    "name": "Southern Sami",
+    "greeting": "",
+    "response": ""
+  },
+  "sme": {
+    "name": "Northern Sami",
+    "greeting": "",
+    "response": ""
+  },
+  "smj": {
+    "name": "Lule Sami",
+    "greeting": "",
+    "response": ""
+  },
+  "smn": {
+    "name": "Inari Sami",
+    "greeting": "",
+    "response": ""
+  },
+  "smo": {
+    "name": "Samoan",
+    "greeting": "Ua toe tu Keriso!",
+    "response": "E moni, ua toe tu o Ia!"
+  },
+  "sms": {
+    "name": "Skolt Sami",
+    "greeting": "",
+    "response": ""
+  },
+  "sna": {
+    "name": "Shona",
+    "greeting": "Kristu amuka!",
+    "response": "Amuka zvirokwazvo!"
+  },
+  "snd": {
+    "name": "Sindhi",
+    "greeting": "",
+    "response": ""
+  },
+  "snk": {
+    "name": "Soninke",
+    "greeting": "",
+    "response": ""
+  },
+  "som": {
+    "name": "Somali",
+    "greeting": "Masiixii waa soo sarakacay!",
+    "response": "Hubaal wuu soo sarakacay!"
+  },
+  "sot": {
+    "name": "Southern Sotho",
+    "greeting": "",
+    "response": ""
+  },
+  "spa": {
+    "name": "Spanish",
+    "greeting": "¡Cristo ha resucitado!",
+    "response": "¡En verdad ha resucitado!"
+  },
+  "srd": {
+    "name": "Sardinian",
+    "greeting": "",
+    "response": ""
+  },
+  "srn": {
+    "name": "Sranan Tongo",
+    "greeting": "",
+    "response": ""
+  },
+  "srp": {
+    "name": "Serbian",
+    "greeting": "Христос воскресе!",
+    "response": "Ваистину воскресе!"
+  },
+  "srr": {
+    "name": "Serer",
+    "greeting": "",
+    "response": ""
+  },
+  "ssw": {
+    "name": "Swati",
+    "greeting": "",
+    "response": ""
+  },
+  "suk": {
+    "name": "Sukuma",
+    "greeting": "",
+    "response": ""
+  },
+  "sun": {
+    "name": "Sundanese",
+    "greeting": "",
+    "response": ""
+  },
+  "sus": {
+    "name": "Susu",
+    "greeting": "",
+    "response": ""
+  },
+  "swa": {
+    "name": "Swahili",
+    "greeting": "Kristo amefufuka!",
+    "response": "Kweli amefufuka!"
+  },
+  "swe": {
+    "name": "Swedish",
+    "greeting": "Kristus är uppstånden!",
+    "response": "Ja, Han är sannerligen uppstånden!"
+  },
+  "syr": {
+    "name": "Syriac",
+    "greeting": "ܡܫܝܚܐ ܩܡ",
+    "response": "ܫܪܝܪܐܝܬ ܩܡ"
+  },
+  "tah": {
+    "name": "Tahitian",
+    "greeting": "",
+    "response": ""
+  },
+  "tam": {
+    "name": "Tamil",
+    "greeting": "கிறிஸ்து உயிர்த்தெழுந்தார்!",
+    "response": "உண்மையாகவே அவர் உயிர்த்தெழுந்தார்!"
+  },
+  "tat": {
+    "name": "Tatar",
+    "greeting": "Мәсих терелде!",
+    "response": "Хакыйкатьтән терелде!"
+  },
+  "tel": {
+    "name": "Telugu",
+    "greeting": "క్రీస్తు పునరుత్థానుడయ్యాడు!",
+    "response": "నిజముగా ఆయన పునరుత్థానుడయ్యాడు!"
+  },
+  "tem": {
+    "name": "Timne",
+    "greeting": "",
+    "response": ""
+  },
+  "ter": {
+    "name": "Tereno",
+    "greeting": "",
+    "response": ""
+  },
+  "tet": {
+    "name": "Tetum",
+    "greeting": "",
+    "response": ""
+  },
+  "tgk": {
+    "name": "Tajik",
+    "greeting": "Масеҳ бархостааст!",
+    "response": "Дар ҳақиқат бархостааст!"
+  },
+  "tgl": {
+    "name": "Tagalog",
+    "greeting": "Si Kristo ay nabuhay!",
+    "response": "Siya ay nabuhay!"
+  },
+  "tha": {
+    "name": "Thai",
+    "greeting": "พระคริสต์ทรงเป็นขึ้นมาแล้ว!",
+    "response": "พระองค์ทรงเป็นขึ้นมาแล้วจริงๆ!"
+  },
+  "tig": {
+    "name": "Tigre",
+    "greeting": "",
+    "response": ""
+  },
+  "tir": {
+    "name": "Tigrinya",
+    "greeting": "",
+    "response": ""
+  },
+  "tiv": {
+    "name": "Tiv",
+    "greeting": "Kristu mough shin ku!",
+    "response": "Mimi je, A mough!"
+  },
+  "tkl": {
+    "name": "Tokelau",
+    "greeting": "",
+    "response": ""
+  },
+  "tli": {
+    "name": "Tlingit",
+    "greeting": "Xristos kux̱awdigút!",
+    "response": "X̱éliga kux̱awdigút!"
+  },
+  "tmh": {
+    "name": "Tamashek",
+    "greeting": "",
+    "response": ""
+  },
+  "tog": {
+    "name": "Tonga",
+    "greeting": "",
+    "response": ""
+  },
+  "ton": {
+    "name": "Tonga",
+    "greeting": "",
+    "response": ""
+  },
+  "tpi": {
+    "name": "Tok Pisin",
+    "greeting": "",
+    "response": ""
+  },
+  "tsi": {
+    "name": "Tsimshian",
+    "greeting": "",
+    "response": ""
+  },
+  "tsn": {
+    "name": "Tswana",
+    "greeting": "",
+    "response": ""
+  },
+  "tso": {
+    "name": "Tsonga",
+    "greeting": "",
+    "response": ""
+  },
+  "tuk": {
+    "name": "Turkmen",
+    "greeting": "Mesih direldi!",
+    "response": "Hakykatdan direldi!"
+  },
+  "tum": {
+    "name": "Tumbuka",
+    "greeting": "",
+    "response": ""
+  },
+  "tur": {
+    "name": "Turkish",
+    "greeting": "Mesih dirildi!",
+    "response": "Gerçekten dirildi!"
+  },
+  "tvl": {
+    "name": "Tuvalua",
+    "greeting": "",
+    "response": ""
+  },
+  "twi": {
+    "name": "Twi",
+    "greeting": "",
+    "response": ""
+  },
+  "tyv": {
+    "name": "Tuvinian",
+    "greeting": "",
+    "response": ""
+  },
+  "udm": {
+    "name": "Udmurt",
+    "greeting": "",
+    "response": ""
+  },
+  "uig": {
+    "name": "Uighur",
+    "greeting": "",
+    "response": ""
+  },
+  "ukr": {
+    "name": "Ukrainian",
+    "greeting": "Христос воскрес!",
+    "response": "Воістину воскрес!"
+  },
+  "umb": {
+    "name": "Umbundu",
+    "greeting": "",
+    "response": ""
+  },
+  "urd": {
+    "name": "Urdu",
+    "greeting": "مسیح جی اٹھا ہے!",
+    "response": "سچ مچ جی اٹھا ہے!"
+  },
+  "uzb": {
+    "name": "Uzbek",
+    "greeting": "Masih tirildi!",
+    "response": "Haqiqatan ham tirildi!"
+  },
+  "vai": {
+    "name": "Vai",
+    "greeting": "",
+    "response": ""
+  },
+  "ven": {
+    "name": "Venda",
+    "greeting": "",
+    "response": ""
+  },
+  "vie": {
+    "name": "Vietnamese",
+    "greeting": "Chúa Kitô đã phục sinh!",
+    "response": "Ngài đã thực sự phục sinh!"
+  },
+  "vot": {
+    "name": "Votic",
+    "greeting": "",
+    "response": ""
+  },
+  "wal": {
+    "name": "Wolaitta",
+    "greeting": "",
+    "response": ""
+  },
+  "war": {
+    "name": "Waray",
+    "greeting": "Nabanhaw hi Kristo!",
+    "response": "Tinuod gayud nga nabanhaw hiya!"
+  },
+  "was": {
+    "name": "Washo",
+    "greeting": "",
+    "response": ""
+  },
+  "wln": {
+    "name": "Walloon",
+    "greeting": "",
+    "response": ""
+  },
+  "wol": {
+    "name": "Wolof",
+    "greeting": "",
+    "response": ""
+  },
+  "xal": {
+    "name": "Kalmyk",
+    "greeting": "",
+    "response": ""
+  },
+  "xho": {
+    "name": "Xhosa",
+    "greeting": "UKristu uvukile!",
+    "response": "Inene uvukile!"
+  },
+  "yao": {
+    "name": "Yao",
+    "greeting": "",
+    "response": ""
+  },
+  "yap": {
+    "name": "Yapese",
+    "greeting": "",
+    "response": ""
+  },
+  "yid": {
+    "name": "Yiddish",
+    "greeting": "דער משיח איז אויפֿגעשטאַנען!",
+    "response": "ער איז טאַקע אויפֿגעשטאַנען!"
+  },
+  "yor": {
+    "name": "Yoruba",
+    "greeting": "Kristi ti ji dide!",
+    "response": "Nitooto, o ti ji dide!"
+  },
+  "zap": {
+    "name": "Zapotec",
+    "greeting": "",
+    "response": ""
+  },
+  "zen": {
+    "name": "Zenaga",
+    "greeting": "",
+    "response": ""
+  },
+  "zgh": {
+    "name": "Standard Moroccan Tamazight",
+    "greeting": "",
+    "response": ""
+  },
+  "zha": {
+    "name": "Zhuang",
+    "greeting": "",
+    "response": ""
+  },
+  "zul": {
+    "name": "Zulu",
+    "greeting": "UKristu uvukile!",
+    "response": "Uvukile ngempela!"
+  },
+  "zun": {
+    "name": "Zuni",
+    "greeting": "",
+    "response": ""
+  },
+  "zza": {
+    "name": "Zaza",
+    "greeting": "",
+    "response": ""
+  }
 }
