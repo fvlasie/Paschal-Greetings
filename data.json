@@ -76,8 +76,8 @@
   },
   "ara": {
     "name": "Arabic",
-    "greeting": "المسيح قام!",
-    "response": "حقا قام!"
+    "greeting": "!المسيح قام",
+    "response": "!حقا قام"
   },
   "arg": {
     "name": "Aragonese",
@@ -241,8 +241,8 @@
   },
   "bre": {
     "name": "Breton",
-    "greeting": "Dassorc'het eo Krist!",
-    "response": "E gwirionez eo dassorc'het!"
+    "greeting": "Dassorc’het eo Krist!",
+    "response": "E gwirionez eo dassorc’het!"
   },
   "bua": {
     "name": "Buriat",
@@ -541,13 +541,13 @@
   },
   "fas": {
     "name": "Persian",
-    "greeting": "مسیح برخاسته است!",
-    "response": "به راستی برخاسته است!"
+    "greeting": "!مسیح برخاسته است",
+    "response": "!به راستی برخاسته است"
   },
   "per": {
     "name": "Persian",
-    "greeting": "مسیح برخاسته است!",
-    "response": "به راستی برخاسته است!"
+    "greeting": "!مسیح برخاسته است",
+    "response": "!به راستی برخاسته است"
   },
   "fat": {
     "name": "Fanti",
@@ -657,7 +657,7 @@
   "glv": {
     "name": "Manx",
     "greeting": "Ta Creest er n’irree!",
-    "response": "Dy firrinagh t’eh er n'irree!"
+    "response": "Dy firrinagh t’eh er n’irree!"
   },
   "gon": {
     "name": "Gondi",
@@ -772,7 +772,7 @@
   "ibo": {
     "name": "Igbo",
     "greeting": "Kraịst ebiliwo!",
-    "response": "N'ezie o biliwo!"
+    "response": "N’ezie o biliwo!"
   },
   "ice": {
     "name": "Icelandic",
@@ -826,8 +826,8 @@
   },
   "jpn": {
     "name": "Japanese",
-    "greeting": "ハリストス復活！",
-    "response": "実に復活！"
+    "greeting": "ハリストス復活!",
+    "response": "実に復活!"
   },
   "jpr": {
     "name": "Judeo-Persian",
@@ -1416,8 +1416,8 @@
   },
   "pus": {
     "name": "Pushto",
-    "greeting": "مسیح راپاڅېدلی دی!",
-    "response": "په رښتیا راپاڅېدلی دی!"
+    "greeting": "!مسیح راپاڅېدلی دی",
+    "response": "!په رښتیا راپاڅېدلی دی"
   },
   "que": {
     "name": "Quechua",
@@ -1656,8 +1656,8 @@
   },
   "syr": {
     "name": "Syriac",
-    "greeting": "ܡܫܝܚܐ ܩܡ",
-    "response": "ܫܪܝܪܐܝܬ ܩܡ"
+    "greeting": "!ܡܫܝܚܐ ܩܡ",
+    "response": "!ܫܪܝܪܐܝܬ ܩܡ"
   },
   "tah": {
     "name": "Tahitian",
