@@ -316,12 +316,12 @@
   },
   "chi": {
     "name": "Chinese",
-    "greeting": "基督復活了!",
+    "greeting": "克里斯多復活了!",
     "response": "他確實復活了!"
   },
   "zho": {
     "name": "Chinese",
-    "greeting": "基督復活了!",
+    "greeting": "克里斯多復活了!",
     "response": "他確實復活了!"
   },
   "chk": {
@@ -1821,8 +1821,8 @@
   },
   "urd": {
     "name": "Urdu",
-    "greeting": "مسیح جی اٹھا ہے!",
-    "response": "سچ مچ جی اٹھا ہے!"
+    "greeting": "!مسیح جی اٹھا ہے",
+    "response": "!سچ مچ جی اٹھا ہے"
   },
   "uzb": {
     "name": "Uzbek",
